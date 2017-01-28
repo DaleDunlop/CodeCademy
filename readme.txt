@@ -1,0 +1,1 @@
+This is my repo for projects that I'm working on from CodeCademy.
